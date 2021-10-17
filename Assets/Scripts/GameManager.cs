@@ -25,10 +25,7 @@ public class GameManager : MonoBehaviour
     }
     private void Start()
     {
-        //PlayerPrefs.SetInt("Level",0);
-
-
-        PlayerPrefs.SetInt("Score",0);
+        
         level = PlayerPrefs.GetInt("Level");
 
         score = 0;
