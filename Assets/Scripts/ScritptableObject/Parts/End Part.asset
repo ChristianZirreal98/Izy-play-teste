@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 198b2cf3fae450445a36eb1a481bbbfc, type: 3}
+  m_Name: End Part
+  m_EditorClassIdentifier: 
+  obj: {fileID: 3549423581032523834, guid: b8aa07c4cbedab547ae73e5ee4464964, type: 3}
+  spawn_next_obj: {fileID: 0}
+  offset_objc: {x: 0, y: 0, z: 0}
+  is_long_obj: 0
